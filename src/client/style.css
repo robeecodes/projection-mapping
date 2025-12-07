@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+canvas {
+    display: block;
+}
+body {
+    background-color: limegreen;
+}
+#travel {
+    background-color: dimgrey;
+}
+
+h1, button {
+    font-family: Verdana, Geneva, Tahoma, Verdana, sans-serif;
+}
