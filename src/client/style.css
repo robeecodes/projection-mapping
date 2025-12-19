@@ -1,0 +1,79 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+canvas {
+    display: block;
+}
+body {
+    background-color: limegreen;
+}
+
+#travel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    min-height: 100vh;
+
+    background: linear-gradient(#272727, #232323);
+}
+
+#travel a {
+    color: #deffc2;
+    font-weight: bold;
+}
+
+#travel #poll {
+    box-sizing: border-box;
+    width: 80%;
+    max-width: 64rem;
+    height: auto;
+
+    background: linear-gradient(#272727, #232323);
+    border-radius: 10px;
+
+    border-top: 3px solid  #434343;
+    border-right: 3px solid #272727;
+    border-bottom: 3px solid #313131;
+    border-left: 3px solid #6a6a6a;
+
+    padding: 2rem;
+
+    font-family: sans-serif;
+    color: white;
+
+    transition: all 0.2s ease-in-out;
+}
+
+#travel #poll button {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+    text-align: left;
+
+    border-top: 3px solid  #434343;
+    border-right: 3px solid #272727;
+    border-bottom: 3px solid #313131;
+    border-left: 3px solid #6a6a6a;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+    font-size: 1.2rem;
+    font-weight: bold;
+
+    transition: all 0.2s ease-in-out;
+}
+
+#travel #poll button:hover {
+    background-color: #deffc2;
+}
+
+h1, button {
+    font-family: Verdana, Geneva, Tahoma, Verdana, sans-serif;
+}
