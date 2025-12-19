@@ -15,7 +15,9 @@
 
 ## Setup
 
-First, download and extract the resolume-project folder from [OneDrive](https://uweacuk-my.sharepoint.com/:u:/g/personal/robin2_king_live_uwe_ac_uk/IQCdAZiaD1RaSZjEnEJV9DlTAX_BgcTDk2OtV3UJEz1yTEI?e=5g2SVu).
+First, download and extract the resolume-project folder from [Releases](https://github.com/robeecodes/projection-mapping/releases/tag/resolume-files) or [OneDrive](https://uweacuk-my.sharepoint.com/:u:/g/personal/robin2_king_live_uwe_ac_uk/IQCdAZiaD1RaSZjEnEJV9DlTAX_BgcTDk2OtV3UJEz1yTEI?e=5g2SVu).
+
+Clone the project by running `git clone https://github.com/robeecodes/projection-mapping.git`
 
 ### Resolume Arena
 1. In the root directory, run `pnpm install`
