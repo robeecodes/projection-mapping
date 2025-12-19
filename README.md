@@ -15,7 +15,7 @@
 
 ## Setup
 
-First, download and extract the resolume-project folder from [OneDrive](https://uweacuk-my.sharepoint.com/:u:/g/personal/robin2_king_live_uwe_ac_uk/IQCdAZiaD1RaSZjEnEJV9DlTAX_BgcTDk2OtV3UJEz1yTEI?e=UC1tzM).
+First, download and extract the resolume-project folder from [OneDrive](https://uweacuk-my.sharepoint.com/:u:/g/personal/robin2_king_live_uwe_ac_uk/IQCdAZiaD1RaSZjEnEJV9DlTAX_BgcTDk2OtV3UJEz1yTEI?e=5g2SVu)).
 
 ### Resolume Arena
 1. In the root directory, run `pnpm install`
