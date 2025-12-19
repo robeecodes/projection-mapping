@@ -15,9 +15,11 @@
 
 ## Setup
 
+First, download and extract the resolume-project folder from [OneDrive](https://uweacuk-my.sharepoint.com/:u:/g/personal/robin2_king_live_uwe_ac_uk/IQCdAZiaD1RaSZjEnEJV9DlTAX_BgcTDk2OtV3UJEz1yTEI?e=UC1tzM).
+
 ### Resolume Arena
 1. In the root directory, run `pnpm install`
-2. In the resolume-project directory, open `Trees.avc`
+2. In the resolume-project folder, open `Trees.avc`
 3. Make sure the composition is set up so:
     1. The transition clip is in Layer 3, Column 1
    2. The OBS Studio Virtual Camera Output is in Layer 2, Column 1
